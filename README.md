@@ -19,12 +19,12 @@ Pharmaceutical Sales/
 
 ## Questions Answered
 
-1. ✅ What are the total sales quantities for each drug category (ATC code)?
-2. ✅ Which individual drug brands have the highest total sales?
-3. ✅ Which three drugs have the highest sales in January 2015, July 2016, September 2017?
-4. ✅ Which drug has sold the most often in 2017?
-5. ✅ Which drug category has the highest average daily sales?
-6. ✅ Are respiratory drugs (R03) sold more during specific months?
+1. What are the total sales quantities for each drug category (ATC code)?
+2. Which individual drug brands have the highest total sales?
+3. Which three drugs have the highest sales in January 2015, July 2016, September 2017?
+4. Which drug has sold the most often in 2017?
+5. Which drug category has the highest average daily sales?
+6. Are respiratory drugs (R03) sold more during specific months?
 
 ## Technologies Used
 
@@ -49,4 +49,3 @@ Pharmaceutical Sales/
 - R06 - Antihistamines
 
 
-*This project demonstrates practical data analysis skills including data cleaning, exploratory analysis, aggregation, and visualization.*
